@@ -17,7 +17,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.UOEAdminApp">
-        <activity android:name=".UserDashboard"></activity>
+        <activity
+            android:name=".ui.UserDashboard"
+            android:label="@string/title_activity_user_dashboard"
+            android:theme="@style/Theme.UOEAdminApp.NoActionBar"></activity>
         <activity android:name=".PassCode">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,9 +28,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity">
-
-        </activity>
+        <activity android:name=".ui.announcements.AddAnnouncement"></activity>
     </application>
 
 </manifest>

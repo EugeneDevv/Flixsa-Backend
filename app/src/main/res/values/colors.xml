@@ -2,7 +2,8 @@
 <resources>
     <color name="colorPrimary">#733C31</color>
     <color name="colorPrimaryDark">#E5B554</color>
-    <color name="colorAccent">#252525</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorAccentDark">#9A7221</color>
     <color name="whiteDark">#C6FFFFFF</color>
     <color name="blueTeal">#13A9E9</color>
     <color name="red">#F70505</color>
@@ -14,4 +15,5 @@
     <color name="emeralGreen">#25D690</color>
     <color name="grey">#A2A2A3</color>
     <color name="light_grey">#F2E4E0EA</color>
+    <color name="black">#000000</color>
 </resources>

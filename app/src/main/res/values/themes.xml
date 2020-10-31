@@ -14,4 +14,13 @@
         <!--        Background color when selected -->
         <item name="colorControlHighlight">@color/colorAccent</item>
     </style>
+
+    <style name="Theme.UOEAdminApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.UOEAdminApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.UOEAdminApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

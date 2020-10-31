@@ -7,8 +7,8 @@ import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
 import android.view.WindowManager;
-import android.widget.Toast;
 
+import com.eujoh.uoeadminapp.ui.UserDashboard;
 import com.google.android.material.textfield.TextInputEditText;
 
 public class PassCode extends AppCompatActivity {
