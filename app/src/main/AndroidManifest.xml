@@ -17,10 +17,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.UOEAdminApp">
+        <activity android:name=".AddLostAndFound"></activity>
+        <activity android:name=".LostAndFound" />
+        <activity android:name=".ui.lostfound.AddLostFound" />
+        <activity android:name=".ui.campusbuzz.AddBuzz" />
         <activity
             android:name=".ui.UserDashboard"
             android:label="@string/title_activity_user_dashboard"
-            android:theme="@style/Theme.UOEAdminApp.NoActionBar"></activity>
+            android:theme="@style/Theme.UOEAdminApp.NoActionBar" />
         <activity android:name=".PassCode">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,7 +32,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.announcements.AddAnnouncement"></activity>
+        <activity android:name=".ui.announcements.AddAnnouncement" />
     </application>
 
 </manifest>
