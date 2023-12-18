@@ -93,6 +93,12 @@
     * Date
     * Type
 
+### 11. Staff
+* Creating a cinema makes you the owner by default
+* Owner of a cinema can create/invite more staff to manage cinema
+* Owner can manage the roles of existing staff or even remove staff from cinema
+* Owner can manage/specify what each role is able to do
+
 ## Movies
 * With the help tmdb apis and our custom implements, cinemas and clients should:
   * Be able to search movies
