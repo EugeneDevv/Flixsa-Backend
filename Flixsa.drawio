@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T15:32:10.024Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="e4glbawktzbSo04bvwY4" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T07:23:49.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_DpJOBvuUGAS2BlaUb4H" version="22.1.11" type="github">
   <diagram name="Page-1" id="sqjibDyvCSoYrN6cyTP3">
-    <mxGraphModel dx="770" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1011" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry y="50" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Jl6ezpnLRALdIs5fdPDW-12" value="Role" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="466" y="670" width="140" height="190" as="geometry" />
+          <mxGeometry x="500" y="640" width="140" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Jl6ezpnLRALdIs5fdPDW-13" value="name (string)&lt;br&gt;permissions (string)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Jl6ezpnLRALdIs5fdPDW-12">
           <mxGeometry y="50" width="140" height="140" as="geometry" />
